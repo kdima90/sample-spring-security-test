@@ -1,0 +1,2 @@
+This is simple spring security project with basic authorization. Most interesting part is the [BasicAuthorizationConfigurationIT.java](src/test/java/kdima90/configuration/BasicAuthorizationConfigurationIT.java).
+I setup it with newest RestTestClient. 
