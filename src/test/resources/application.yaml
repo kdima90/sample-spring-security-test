@@ -1,0 +1,7 @@
+sample:
+  spring:
+    security:
+      test:
+        credentials:
+          username: test
+          password: test
