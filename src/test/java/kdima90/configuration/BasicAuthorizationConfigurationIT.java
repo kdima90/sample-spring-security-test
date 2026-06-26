@@ -25,7 +25,6 @@ class BasicAuthorizationConfigurationIT {
     @BeforeEach
     void setup(WebApplicationContext webApplicationContext){
         /**+
-         *
          * Since spring security is not automatically provided, it needs to be configured.
          * Therefore we need here the dependency
          * <dependency>
